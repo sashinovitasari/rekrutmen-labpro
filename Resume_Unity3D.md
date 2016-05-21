@@ -44,7 +44,17 @@ Berikut adalah struktur tampilan dasar dari Unity 3D:
 5. ***Toolbar*** - Untuk mengatur tampilan *scene* dan objek yang di dalamnya, menjalankan/pause/step *scene*, menyediakan akses ke Unity Cloud Service dan akun Unity, menampilkan menu visibilitas dari layer, serta menyediakan menu layout dari editor (terdapat beberp alternatif editor windows, atau pengguna dapat membuat pengaturan layout sendiri/*custom*)
 
 ## F. Penggunaan
-Agar dapat menggunakan Unity 3D, pengguna harus melakukan instalasi program Unity 3D ke komputer terlebih dahulu. Installer dari program ini terdapat di [situs resmi Unity](http://unity3d.com/get-unity). Setelah melakukan instalasi dan membuka program, pengguna dapat membuat proyek baru (*new project*) untuk memulai pembuatan aplikasi sesuai dengan yang diinginkan.  
+Agar dapat menggunakan Unity 3D, pengguna harus melakukan instalasi program Unity 3D ke komputer terlebih dahulu. Installer dari program ini terdapat di [situs resmi Unity](http://unity3d.com/get-unity). Setelah melakukan instalasi dan membuka program, pengguna dapat membuat proyek baru (*new project*) untuk memulai pembuatan aplikasi sesuai dengan yang diinginkan atau pun membuka projek yang sudah ada sebelumnya dan melanjutkan pengembangan.  
+
+Cara membuat projek baru pada Unity 3D:
+
+1. Menekan tombol ***New Project*** pada *Home Screen*, atau melalui menu ***File->New Project...*** pada *Editor Screen*.
+2. Memasukkan nama proyek pada kotak ***Project Name***.
+3. Menentukan lokasi penyimpanan atau *directory* dari proyek pada kotak ***Location***
+4. Menentukan tipe grafis dari proyek, yaitu 2D atau 3D
+5. Menentukan paket asset yang disediakan oleh Unity, yang akan digunakan dalam proyek pada ***Asset Package***. Paket asset merupakan *tool* serta konten dari *game*, yaitu gambar, *style*, efek cahaya, metode kontrol karakter dalam *game*, dan lain-lainnya, yang sudah dibuat dan disediakan dalam Unity.
+
+![alt text](https://github.com/sashinovitasari/rekrutmen-labpro/blob/master/Images/fghjk.jpg)
 
  
 
@@ -52,3 +62,4 @@ Agar dapat menggunakan Unity 3D, pengguna harus melakukan instalasi program Unit
 * [Unity Manual](http://docs.unity3d.com/Manual/UnityManual.html)
 * [John Haas - A History of the Unity Game Engine](https://www.wpi.edu/Pubs/E-project/Available/E-project-030614-143124/unrestricted/Haas_IQP_Final.pdf)
 * [Unity Forum - What are the pros and cons of Unity game engine?] (http://forum.unity3d.com/threads/what-are-the-pros-and-cons-of-unity-game-engine.240802/)
+* [sourav - Unity 3D Game Development: Advantages and Disadvantages](http://logicsimplified.com/games/2015/09/22/unity-3d-game-development-advantages-and-disadvantages/)
