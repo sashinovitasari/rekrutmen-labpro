@@ -40,7 +40,11 @@ Berikut adalah struktur tampilan dasar dari Unity 3D:
 1. ***Project Window*** - Menampilkan library atau daftar asset yang dapat digunakan dalam proyek.
 2. ***Scene View*** - Untuk navigasi dan pengaturan *scene* dari *game* secara visual. Tampilan dapat berupa 2D atau pun 3D, bergantung pada pilihan mode proyek
 3. ***Hierarchy Window*** - Menampilkan hubungan hierarkis antar objek dalam *scene*.
-4. ***Inspector Window*** - 
+4. ***Inspector Window*** - Menampilkan *property* dari objek yang sedang diseleksi. Pengguna juga dapat pengaturan *property* objek tersebut melalui *inspector windows*
+5. ***Toolbar*** - Untuk mengatur tampilan *scene* dan objek yang di dalamnya, menjalankan/pause/step *scene*, menyediakan akses ke Unity Cloud Service dan akun Unity, menampilkan menu visibilitas dari layer, serta menyediakan menu layout dari editor (terdapat beberp alternatif editor windows, atau pengguna dapat membuat pengaturan layout sendiri/*custom*)
+
+## F. Penggunaan
+Agar dapat menggunakan Unity 3D, pengguna harus melakukan instalasi program Unity 3D ke komputer terlebih dahulu. Installer dari program ini terdapat di [situs resmi Unity](http://unity3d.com/get-unity). Setelah melakukan instalasi dan membuka program, pengguna dapat membuat proyek baru (*new project*) untuk memulai pembuatan aplikasi sesuai dengan yang diinginkan.  
 
  
 
