@@ -18,8 +18,12 @@ Berikut adalah beberapa kelebihan dari Unity 3D:
 * *Cross-platform*
 * Dapat membuat *game* 3D, 2D, atau kolaborasi antar keduanya dan mode dapat diubah-ubah di tengah masa pengembangan
 
+
 #### Kekurangan Unity 3D
 
 #### Struktur
 ![alt text] (https://github.com/sashinovitasari/rekrutmen-labpro/blob/master/Images/kkkk.jpg)
 
+#### Sumber Referensi
+* [Unity Manual](http://docs.unity3d.com/Manual/UnityManual.html)
+* [John Haas - A History of the Unity Game Engine](https://www.wpi.edu/Pubs/E-project/Available/E-project-030614-143124/unrestricted/Haas_IQP_Final.pdf)
