@@ -7,6 +7,8 @@ Unity 3D merupakan sebuah *game engine* dan IDE *cross-platform* yang digunakan 
 
 Konsep dari cara penggunaan program ini terinspirasi dari fitur *drag-and-drop*, unsur *workflow* yang mudah, serta unsur *asset pipeline* yang sederhana yang dimiliki oleh aplikasi Apple's Final Cut. Versi awal dari Unity 3D hanya tersedia untuk pengembangan dengan menggunakan lingkunan Mac OS X, namun saat ini Unity 3D dapat dijalankan diberbagai *platform*.
 
+![alt text](https://github.com/sashinovitasari/rekrutmen-labpro/blob/master/Images/unity-editor-2.jpg)
+
 ## B. Fitur Unity 3D
 Program Unity 3D memiliki beberapa fitur yang dapat membantu pengguna dalam pengembangan program game. Berikut adalah fitur utama yang dimiliki oleh Unity 3D:
 * **Game Scripting** dengan menggunakan bahasa C#, JavaScript, atau Boo.
