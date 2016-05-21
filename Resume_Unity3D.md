@@ -9,6 +9,8 @@ Konsep dari cara penggunaan program ini terinspirasi dari fitur *drag-and-drop*,
 
 ![alt text](https://github.com/sashinovitasari/rekrutmen-labpro/blob/master/Images/unity-editor-2.jpg)
 
+([sumber gambar](http://insights.dice.com/2013/06/03/how-unity3d-become-a-game-development-beast/))
+
 ## B. Fitur Unity 3D
 Program Unity 3D memiliki beberapa fitur yang dapat membantu pengguna dalam pengembangan program game. Berikut adalah fitur utama yang dimiliki oleh Unity 3D:
 * **Game Scripting** dengan menggunakan bahasa C#, JavaScript, atau Boo.
@@ -37,6 +39,8 @@ Berikut adalah beberapa kekurangan dari Unity 3D:
 ## E. Struktur
 ![alt text] (https://github.com/sashinovitasari/rekrutmen-labpro/blob/master/Images/kkkk.jpg)
 
+([sumber gambar](http://docs.unity3d.com/Manual/LearningtheInterface))
+
 Berikut adalah struktur tampilan dasar dari Unity 3D:
 
 1. ***Project Window*** - Menampilkan library atau daftar asset yang dapat digunakan dalam proyek.
@@ -57,6 +61,8 @@ Cara membuat projek baru pada Unity 3D:
 5. Menentukan paket asset yang disediakan oleh Unity, yang akan digunakan dalam proyek pada ***Asset Package***. Paket asset merupakan *tool* serta konten dari *game*, yaitu gambar, *style*, efek cahaya, metode kontrol karakter dalam *game*, dan lain-lainnya, yang sudah dibuat dan disediakan dalam Unity.
 
 ![alt text](https://github.com/sashinovitasari/rekrutmen-labpro/blob/master/Images/fghjk.jpg)
+
+([sumber gambar](http://docs.unity3d.com/Manual/GettingStarted))
 
  
 
