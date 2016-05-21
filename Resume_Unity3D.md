@@ -2,7 +2,7 @@
 # Unity 3D 
 ###### Oleh : Sashi Novitasari/13514027
 
-## A. Tentang Unity 3D
+## A. Filosofi Unity 3D
 Unity 3D merupakan sebuah *game engine* dan IDE *cross-platform* yang digunakan untuk membuat *game* berbasis 3D atau pun 2D dan aplikasi lainnya untuk mobile, komputer, web, dan konsol lainnya. Menurut CEO Unity, David Helgason, program ini merupakan *tool* yang dapat digunakan untuk membuat *game* serta elemen-elemen teknologi yang menyusunnya, yaitu grafik, audio, *physic* (lingkungan dalam *game*), interaksi, serta *network* dalam *game* tersebut. Pada awalnya, tujuan dari pembuatan program ini adalah untuk membuat *game engine* yang terjangkau bagi pengembang *game* amatir dengan fitur yang lengkap atau profesional. Program ini merupakan salah satu wujud dari usaha demokratisasi industri *game* pada masa awal pembuatan. 
 
 Konsep dari cara penggunaan program ini terinspirasi dari fitur *drag-and-drop*, unsur *workflow* yang mudah, serta unsur *asset pipeline* yang sederhana yang dimiliki oleh aplikasi Apple's Final Cut. Versi awal dari Unity 3D hanya tersedia untuk pengembangan dengan menggunakan lingkunan Mac OS X, namun saat ini Unity 3D dapat dijalankan diberbagai *platform*.
@@ -37,14 +37,14 @@ Berikut adalah beberapa kekurangan dari Unity 3D:
 
 Berikut adalah struktur tampilan dasar dari Unity 3D:
 
-1. ***Project Windows*** - Menampilkan library atau daftar asset yang dapat digunakan dalam proyek.
-2. ***Scene View*** - 
+1. ***Project Window*** - Menampilkan library atau daftar asset yang dapat digunakan dalam proyek.
+2. ***Scene View*** - Untuk navigasi dan pengaturan *scene* dari *game* secara visual. Tampilan dapat berupa 2D atau pun 3D, bergantung pada pilihan mode proyek
+3. ***Hierarchy Window*** - Menampilkan hubungan hierarkis antar objek dalam *scene*.
+4. ***Inspector Window*** - 
+
+ 
 
 #### Sumber Referensi
 * [Unity Manual](http://docs.unity3d.com/Manual/UnityManual.html)
 * [John Haas - A History of the Unity Game Engine](https://www.wpi.edu/Pubs/E-project/Available/E-project-030614-143124/unrestricted/Haas_IQP_Final.pdf)
 * [Unity Forum - What are the pros and cons of Unity game engine?] (http://forum.unity3d.com/threads/what-are-the-pros-and-cons-of-unity-game-engine.240802/)
-
-
-![alt text](https://github.com/sashinovitasari/rekrutmen-labpro/blob/master/Images/kk.png)
-
