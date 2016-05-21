@@ -2,8 +2,8 @@
 ## Unity 3D
 ###### Oleh : Sashi Novitasari/13514027
 #### Tentang Unity 3D
-Unity 3D merupakan sebuah *game engine* dan IDE *cross-platform* yang digunakan untuk 
-membuat *game* berbasis 3D atau pun 2D dan aplikasi lainnya untuk mobile, komputer, web, dan konsol lainnya.
+Unity 3D merupakan sebuah *game engine* dan IDE *cross-platform* yang digunakan untuk membuat *game* berbasis 3D atau pun 2D dan aplikasi lainnya untuk mobile, komputer, web, dan konsol lainnya. Menurut CEO Unity, David Helgason, program ini merupakan tool yang dapat digunakan untuk membuat *game* serta elemen-elemen teknologi yang menyusunnya, yaitu grafik, audio, *physic* (lingkungan dalam *game*), interaksi, serta *network* dalam *game* tersebut.
+Pada awalnya, program ini dbuat dengan tujuan .
 
 #### Fitur Unity 3D
 Program Unity 3D memiliki beberapa fitur yang dapat membantu pengguna dalam pengembangan program game. Berikut adalah fitur utama yang dimiliki oleh Unity 3D:
