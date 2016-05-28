@@ -1,8 +1,14 @@
-#Branch:
+#SUBMISI TUGAS EKSPLORASI 2
+
+
+
+
+------------------------------------------------------------------
+##Branch:
 - Eksplorasi2 : Main dan tugas eksplorasi 1
 - master      : tugas eksplorasi 2
 
-# Rekrutmen Asisten Lab Programming Angkatan 2014
+## Rekrutmen Asisten Lab Programming Angkatan 2014
 
 ## Eksplorasi 1
 * Rilis: 3 Mei 2016
