@@ -1,3 +1,7 @@
+#Branch:
+- Eksplorasi2 : Main dan tugas eksplorasi 1
+- master      : tugas eksplorasi 2
+
 # Rekrutmen Asisten Lab Programming Angkatan 2014
 
 ## Eksplorasi 1
@@ -12,6 +16,7 @@ Eksplorasi github dan topik eksplorasi (bahasa/engine/framework) yang Anda dapat
 * Rilis: 24 Mei 2016
 * Deadline: 29 Mei 2016
 * Deliverables: Source code dan dokumentasi program sederhana sesuai topik eksplorasi
+* Branch: master
 
 Melakukan setup dan membuat program sederhana sesuai topik eksplorasi. Program sederhana yang dibuat minimal adalah semacam Hello World!, namun disarankan untuk membuat lebih dari itu demi kelancaran pembuatan rancangan proyek. Setup akan dinilai dari keberhasilan anda membuat Hello World!, sehingga tidak ada deliverable khusus. Untuk program sederhana, kumpulkan source code dan dokumentasi program saja, jangan mengumpulkan executablesnya (bisa menggunakan fitur gitignore). Pastikan dokumentasi Anda menjelaskan cara penggunaan dan screenshot-screenshot dari program sederhana yang Anda buat.
 
