@@ -24,7 +24,7 @@ Melakukan setup dan membuat program sederhana sesuai topik eksplorasi. Program s
 * Rilis: 31 Mei 2016
 * Deadline: 5 Juni 2016
 * Deliverables: Dokumen rancangan proyek
-* Nama file : [[Tugas 3] Sashi Novitasari - 13524027.pdf](https://github.com/sashinovitasari/rekrutmen-labpro/blob/Eksplorasi2/Rancangan-Proyek/%5BTugas%203%5D%20Sashi%20Novitasari%20-%2013524027.pdf)
+* Nama file : [**[Tugas 3] Sashi Novitasari - 13524027.pdf**](https://github.com/sashinovitasari/rekrutmen-labpro/blob/Eksplorasi2/Rancangan-Proyek/%5BTugas%203%5D%20Sashi%20Novitasari%20-%2013524027.pdf)
 Membuat rancangan proyek yang meliputi deskripsi singkat, platform, fitur minimal, asumsi, dan batasan implementasi. Template dokumen akan disampaikan pada waktu rilis tugas ini, dan mungkin agak sedikit berbeda dengan apa yang disampaikan pada file ini, gunakan yang ada di template saja nanti.
 
 ## Revisi Rancangan Proyek
