@@ -10,22 +10,17 @@
 * Deliverables: Resume topik yang Anda explore
 * Nama file : [**Resume_Unity3D.md**](https://github.com/sashinovitasari/rekrutmen-labpro/blob/master/Resume_Unity3D.md) ([ver. pdf](https://github.com/sashinovitasari/rekrutmen-labpro/blob/master/Resume_Unity3D%20(Sashi%20N.).pdf))
 
-Eksplorasi github dan topik eksplorasi (bahasa/engine/framework) yang Anda dapatkan. Untuk eksplorasi Github, pastikan Anda sudah membaca dokumentasi Github dan minimal bisa melakukan hal dasar di github seperti fork, commit, clone, etc. Eksplorasi Github akan dinilai dari keberhasilan Anda melakukan pengumpulan tugas eksplorasi 1 ini melalui Github. Untuk eksplorasi topik eksplorasi, pastikan Anda minimal sudah membaca about dari topik tersebut. Buatlah sebuah resume dari topik yang Anda explore sebagai deliverable. Resume ini memiliki format bebas, boleh formal maupun non formal, asalkan menjelaskan dan bisa direview oleh asisten secara remote. Minimal terdapat komponen-komponen yaitu: filosofi/ide dari bahasa/engine/framework, kelebihan, kekurangan, struktur, dan penggunaan.
-
 ## Eksplorasi 2
 * Rilis: 24 Mei 2016
 * Deadline: 29 Mei 2016
 * Deliverables: Source code dan dokumentasi program sederhana sesuai topik eksplorasi
 * Branch: [master](https://github.com/sashinovitasari/rekrutmen-labpro/tree/master)
 
-Melakukan setup dan membuat program sederhana sesuai topik eksplorasi. Program sederhana yang dibuat minimal adalah semacam Hello World!, namun disarankan untuk membuat lebih dari itu demi kelancaran pembuatan rancangan proyek. Setup akan dinilai dari keberhasilan anda membuat Hello World!, sehingga tidak ada deliverable khusus. Untuk program sederhana, kumpulkan source code dan dokumentasi program saja, jangan mengumpulkan executablesnya (bisa menggunakan fitur gitignore). Pastikan dokumentasi Anda menjelaskan cara penggunaan dan screenshot-screenshot dari program sederhana yang Anda buat.
-
 ## Rancangan Proyek
 * Rilis: 31 Mei 2016
 * Deadline: 5 Juni 2016
 * Deliverables: Dokumen rancangan proyek
 * Nama file : [**[Tugas 3] Sashi Novitasari - 13524027.pdf**](https://github.com/sashinovitasari/rekrutmen-labpro/blob/Eksplorasi2/Rancangan-Proyek/%5BTugas%203%5D%20Sashi%20Novitasari%20-%2013524027.pdf)
-Membuat rancangan proyek yang meliputi deskripsi singkat, platform, fitur minimal, asumsi, dan batasan implementasi. Template dokumen akan disampaikan pada waktu rilis tugas ini, dan mungkin agak sedikit berbeda dengan apa yang disampaikan pada file ini, gunakan yang ada di template saja nanti.
 
 ## Revisi Rancangan Proyek
 * Rilis: 7 Juni 2016
