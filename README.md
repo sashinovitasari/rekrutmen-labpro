@@ -20,7 +20,7 @@
 * Rilis: 31 Mei 2016
 * Deadline: 5 Juni 2016
 * Deliverables: Dokumen rancangan proyek
-* Nama file : [**[Tugas 3] Sashi Novitasari - 13524027.pdf**](https://github.com/sashinovitasari/rekrutmen-labpro/blob/Eksplorasi2/Rancangan-Proyek/%5BTugas%203%5D%20Sashi%20Novitasari%20-%2013524027.pdf)
+* Nama file : [**[Tugas 3] Sashi Novitasari - 13524027** (pdf)](https://github.com/sashinovitasari/rekrutmen-labpro/blob/Eksplorasi2/Rancangan-Proyek/%5BTugas%203%5D%20Sashi%20Novitasari%20-%2013524027.pdf)
 
 ## Revisi Rancangan Proyek
 * Rilis: 7 Juni 2016
