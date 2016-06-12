@@ -20,14 +20,13 @@
 * Rilis: 31 Mei 2016
 * Deadline: 5 Juni 2016
 * Deliverables: Dokumen rancangan proyek
-* Nama file : [**[Tugas 3] Sashi Novitasari - 13524027** (pdf)](https://github.com/sashinovitasari/rekrutmen-labpro/blob/Eksplorasi2/Rancangan-Proyek/%5BTugas%203%5D%20Sashi%20Novitasari%20-%2013524027.pdf)
+* Nama file : [**[Tugas 3] Sashi Novitasari - 13514027** (pdf)](https://github.com/sashinovitasari/rekrutmen-labpro/blob/Eksplorasi2/Rancangan-Proyek/%5BTugas%203%5D%20Sashi%20Novitasari%20-%2013524027.pdf)
 
 ## Revisi Rancangan Proyek
 * Rilis: 7 Juni 2016
 * Deadline: 12 Juni 2016
 * Deliverables: Revisi dokumen rancangan proyek
-
-Pada tahap ini Anda sudah akan diassign pada asisten khusus untuk masing-masing peserta. Lakukanlah asistensi dengan asisten Anda untuk melakukan revisi ini.
+* Nama fil: [**[Revisi Rancangan Proyek] Sashi Novitasari - 13514027** (pdf)] (https://github.com/sashinovitasari/rekrutmen-labpro/blob/Eksplorasi2/Rancangan-Proyek/%5BRevisi%20Rancangan%20Proyek%5D%20Sashi%20Novitasari%20-%2013524027.pdf)
 
 ## Checkpoint 1
 * Rilis: 14 Juni 2016
