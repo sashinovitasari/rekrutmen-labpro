@@ -26,7 +26,7 @@
 * Rilis: 7 Juni 2016
 * Deadline: 12 Juni 2016
 * Deliverables: Revisi dokumen rancangan proyek
-* Nama fil: [**[Revisi Rancangan Proyek] Sashi Novitasari - 13514027** (pdf)] (https://github.com/sashinovitasari/rekrutmen-labpro/blob/Eksplorasi2/Rancangan-Proyek/%5BRevisi%20Rancangan%20Proyek%5D%20Sashi%20Novitasari%20-%2013524027.pdf)
+* Nama fil: [**[Revisi Rancangan Proyek] Sashi Novitasari - 13514027** (pdf)] (https://github.com/sashinovitasari/rekrutmen-labpro/blob/Eksplorasi2/Rancangan-Proyek/%5BRevisi%20Rancangan%20Proyek%5D%20Sashi%20Novitasari%20-%2013514027.pdf)
 
 ## Checkpoint 1
 * Rilis: 14 Juni 2016
