@@ -26,14 +26,13 @@
 * Rilis: 7 Juni 2016
 * Deadline: 12 Juni 2016
 * Deliverables: Revisi dokumen rancangan proyek
-* Nama fil: [**[Revisi Rancangan Proyek] Sashi Novitasari - 13514027** (pdf)] (https://github.com/sashinovitasari/rekrutmen-labpro/blob/Eksplorasi2/Rancangan-Proyek/%5BRevisi%20Rancangan%20Proyek%5D%20Sashi%20Novitasari%20-%2013514027.pdf)
+* Nama file: [**[Revisi Rancangan Proyek] Sashi Novitasari - 13514027** (pdf)] (https://github.com/sashinovitasari/rekrutmen-labpro/blob/Eksplorasi2/Rancangan-Proyek/%5BRevisi%20Rancangan%20Proyek%5D%20Sashi%20Novitasari%20-%2013514027.pdf)
 
 ## Checkpoint 1
 * Rilis: 14 Juni 2016
 * Deadline: 10 Juli 2016
 * Deliverables: Source code dan screenshot dari aplikasi, serta progress report
-
-Di akhir tahap ini, Anda sudah harus menyelesaikan sebagian dari aplikasi anda. Diwajibkan untuk melakukan asistensi minimal satu kali dengan asisten Anda, Commit tiap tahap pengerjaan Anda ke repository ini, dan tambahkan semacam mini dokumentasi aplikasi dengan mencantumkan screenshot-screenshot akhir aplikasi Anda. Buatlah progress report yang berisi apa yang sudah dikerjakan, kendala, dan rencana pengerjaan berikutnya. Progress report ini akan digunakan oleh asisten Anda untuk dibahas saat asistensi berikutnya. 
+* Folder: [**Checkpoint_1**] (https://github.com/sashinovitasari/rekrutmen-labpro/tree/Eksplorasi2/Checkpoint_1)
 
 ## Checkpoint 2
 * Rilis: 12 Juli 2016
