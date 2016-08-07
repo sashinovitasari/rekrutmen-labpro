@@ -38,7 +38,7 @@
 * Rilis: 12 Juli 2016
 * Deadline: 7 Agustus 2016
 * Deliverables: Source code dan screenshot dari aplikasi, serta progress report
-* Folder: [**Checkpoint_2*] (https://github.com/sashinovitasari/rekrutmen-labpro/tree/Eksplorasi2/Checkpoint_2)
+* Folder: [**Checkpoint_2**] (https://github.com/sashinovitasari/rekrutmen-labpro/tree/Eksplorasi2/Checkpoint_2)
 
 ## Pengumpulan
 * Rilis: 9 Agustus 2016
